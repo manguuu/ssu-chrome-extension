@@ -1,4 +1,4 @@
-## SSU 바로가기 크롬 확장
+## SSU Chrome extension
 
 ## About
 ![image](https://user-images.githubusercontent.com/66214527/144820629-06ea6d66-d9dd-4877-a101-973e11c938d7.png)
