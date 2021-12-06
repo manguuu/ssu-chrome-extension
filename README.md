@@ -13,7 +13,10 @@
 
 2.  Configure extension
    
-    Put this at the [Chrome extensions](chrome://extensions/) to use extension.
+    Put this at the ```chrome://extensions/ ``` to use extension.
+    
+    ![image](https://user-images.githubusercontent.com/66214527/144823162-532d3d71-5f91-4354-bc44-01ed82143bb2.png)
+
     _cf) You need to turn on the developer mode to add more._
 
 3. Pin extension
