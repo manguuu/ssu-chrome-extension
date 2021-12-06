@@ -8,7 +8,6 @@ const link = [
 ];
 document.addEventListener('click', function (e) {
     const clicked_ID = e.target.getAttribute('id');
-    chrome.extension.getBackgroundPage().console.log(clicked_ID);
     for (let i = 0; i < item_list.length; i++) {
         if (item_list[i] === clicked_ID) {
             window.open(link[i], '_blank');
