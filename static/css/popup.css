@@ -1,0 +1,20 @@
+body {
+  width: 250px;
+}
+.first-line {
+  display: flex;
+}
+
+.second-line {
+  display: flex;
+}
+
+.item1 {
+  text-align: center;
+  width: 33%;
+}
+
+.item2 {
+  text-align: center;
+  width: 50%;
+}
