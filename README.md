@@ -18,7 +18,7 @@
     
     ![image](https://user-images.githubusercontent.com/66214527/144823162-532d3d71-5f91-4354-bc44-01ed82143bb2.png)
 
-    _cf) You need to turn on the developer mode to add more._
+    _cf) You need to turn on the developer mode to add it._
 
 3. Pin extension
    
