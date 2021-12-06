@@ -9,10 +9,7 @@
   "permissions": [
     "tabs"  
   ],
-  "web_accessible_resources": [
-    "images/*"
-  ],
-  "icons": { "16": "img.png",
-           "48": "img.png",
-          "128": "img.png" }
+  "icons": { "16": "image/img.png",
+           "48": "image/img.png",
+          "128": "image/img.png" }
 }
