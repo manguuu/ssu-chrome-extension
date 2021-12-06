@@ -2,6 +2,7 @@
 
 ## About
 ![image](https://user-images.githubusercontent.com/66214527/144820629-06ea6d66-d9dd-4877-a101-973e11c938d7.png)
+
 숭실대학교 재학생이라면 필수로 사용해야할 사이트를 바로 접속할 수 있는 확장 프로그램
 
 ## Quick Start
