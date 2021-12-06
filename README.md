@@ -14,7 +14,7 @@
 
 2.  Configure extension
    
-    Put this at the ```chrome://extensions/ ``` to use extension.
+    Put this at the ```chrome://extensions/``` to use extension.
     
     ![image](https://user-images.githubusercontent.com/66214527/144823162-532d3d71-5f91-4354-bc44-01ed82143bb2.png)
 
