@@ -27,4 +27,5 @@
     ![image](https://user-images.githubusercontent.com/66214527/144822464-57c90229-5536-494b-b9d2-185de6209ebf.png)
 
 
-    
+## Contributor
+   짱귀여운 아이콘 제공 : [LeeMinjii](https://github.com/LeeMinJii)
