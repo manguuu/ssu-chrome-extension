@@ -8,13 +8,13 @@
 
 ## Quick Start
 
-1. Download zip file
+1. Download zip file and unzip this file
    
     ![image](https://user-images.githubusercontent.com/66214527/144820738-8a056c6e-5e76-47ce-bcf8-43624d0a9fbd.png)
 
 2.  Configure extension
    
-    Drag and drop this zip file at the ```chrome://extensions/``` to use extension.
+    Drag and drop this unzip file at the ```chrome://extensions/``` to use extension.
     
     ![image](https://user-images.githubusercontent.com/66214527/144823162-532d3d71-5f91-4354-bc44-01ed82143bb2.png)
 
