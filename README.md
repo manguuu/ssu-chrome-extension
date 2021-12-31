@@ -8,7 +8,7 @@
 
 ## Quick Start
 
-1. ![Install](https://chrome.google.com/webstore/detail/%EC%88%AD%EC%8B%A4%EB%8C%80-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0/molglllgllfhdlpkdfadjogihdminaja/related?utm_source=chrome-ntp-icon) extension from this link.
+1. [Install](https://chrome.google.com/webstore/detail/%EC%88%AD%EC%8B%A4%EB%8C%80-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0/molglllgllfhdlpkdfadjogihdminaja/related?utm_source=chrome-ntp-icon) extension from this link.
 2. Pin extension
    
     To use easily Pin extension
