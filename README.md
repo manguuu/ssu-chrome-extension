@@ -4,7 +4,7 @@
 ## About
 ![image](https://user-images.githubusercontent.com/66214527/144831126-0e5a287c-42a2-4538-8542-f67512685fba.png)
 
-숭실대학교 재학생이라면 필수로 사용해야 할 사이트를 하나하나 북마크 등록하지 않고 쉽게 접속할 수 있는 크롬 확장 프로그램
+A Chrome extension that allows Soongsil University students to easily access essential sites without bookmarking them one by one
 
 ## Quick Start
 
