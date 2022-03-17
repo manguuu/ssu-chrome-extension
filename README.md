@@ -2,7 +2,7 @@
 ---
 
 ## About
-![image](https://user-images.githubusercontent.com/66214527/144831126-0e5a287c-42a2-4538-8542-f67512685fba.png)
+![image](https://user-images.githubusercontent.com/66214527/158746655-335f90a1-f9a9-4ee2-bc13-c2035edc873e.png)
 
 A Chrome extension that allows Soongsil University students to easily access essential sites without bookmarking them one by one
 
