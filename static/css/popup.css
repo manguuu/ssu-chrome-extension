@@ -1,20 +1,11 @@
 body {
-  width: 250px;
+  width: 200px;
 }
-.first-line {
+.line {
   display: flex;
 }
 
-.second-line {
-  display: flex;
-}
-
-.item1 {
-  text-align: center;
-  width: 33%;
-}
-
-.item2 {
+.item {
   text-align: center;
   width: 50%;
 }
