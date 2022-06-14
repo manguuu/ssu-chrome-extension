@@ -1,11 +1,13 @@
 body {
-  width: 200px;
+  width: 250px;
 }
+
 .line {
   display: flex;
 }
 
 .item {
   text-align: center;
-  width: 50%;
+  width: 33%;
+  margin: 5%;
 }
